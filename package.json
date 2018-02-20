@@ -1,0 +1,16 @@
+{
+  "name": "JosephAlfonso-Portfolio-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "bulma-start": "0.0.2"
+  }
+}
